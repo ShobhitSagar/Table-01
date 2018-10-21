@@ -24,10 +24,3 @@ for x in range(l):
 
 for x in li2:
 	print(x)
-
-
-
-
-
-
-
